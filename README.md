@@ -1,3 +1,8 @@
+# change
++ apache/incubator-weex.git有很多commit，并不是每一个commit中的playground都好用
++ 6f1e70e中的weex playground是比较好用的版本
++ 下载后不能立即运行，必须先安装依赖，非常烦！我已经解决了依赖，现在是 完整的、可以运行的WeexPlayground
+
 # Weex
 
 A framework for building Mobile cross-platform UI.
